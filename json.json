@@ -1,4 +1,16 @@
 {
+  "title": "JSON Example",
+  "nested": {
+    "someInteger": 7,
+    "someBoolean": true,
+    "someArray": [
+      "list of",
+      "fake strings",
+      "and fake keys"
+    ]
+  }
+},
+{
     "name": "Jhosteen",
     "surname": "Munoz",
     "ege": "16",
